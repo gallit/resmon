@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resmon-console", "resmon-console\resmon-console.csproj", "{E2D236AB-E0E9-4625-B788-3C7B040848D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resmon-engine", "resmon-engine\resmon-engine.csproj", "{9F12EC24-210C-4AB1-BBBE-C2A5F71B5D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F12EC24-210C-4AB1-BBBE-C2A5F71B5D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F12EC24-210C-4AB1-BBBE-C2A5F71B5D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D236AB-E0E9-4625-B788-3C7B040848D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D236AB-E0E9-4625-B788-3C7B040848D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
